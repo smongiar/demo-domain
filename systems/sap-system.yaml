@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: sap
+  description: the SAP system
+spec:
+  owner: group:default/backstage-admins
