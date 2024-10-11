@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/contract-first-idp/bookinfo-system.git
+    repoURL: https://github.com/smongiar/bookinfo-system.git
     path: "."
     directory:
       include: "*/*.yaml"
