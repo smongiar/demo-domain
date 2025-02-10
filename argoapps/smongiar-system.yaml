@@ -10,7 +10,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/contract-first-idp/smongiar-system.git
+    repoURL: https://github.com/smongiar/smongiar-system.git
     path: "."
     directory:
       include: "*/*.yaml"
