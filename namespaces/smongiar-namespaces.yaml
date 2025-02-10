@@ -1,0 +1,28 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: smongiar-prod
+  labels:
+    app : smongiar
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: smongiar-qa
+  labels:
+    app : smongiar
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: smongiar-dev
+  labels:
+    app : smongiar
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: smongiar-build
+  labels:
+    app : smongiar
